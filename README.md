@@ -4,7 +4,7 @@
 
 ## Description
 
-* Auto send you to alternative front end of Medium
+* Auto send you to alternative front end of Medium (https://github.com/realaravinth/libmedium)
 
 
 ## Prerequisites 
